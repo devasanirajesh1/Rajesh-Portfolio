@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Frontend Engineer",
+    "organisation": "EgurukulApps ",
+    "startDate": "Feb, 2023",
+    "endDate": "Present",
+    "experiences": ["Developed School ERP Website from scratch, integrating modules for student management, login, academic tracking, and fee management using CSS,ES6+ and React.js." ,  "Developed the Sunbird Serve website by eVidyaloka, a platform for volunteers and coordinators.","Integrated RESTful APIs  to fetch and manage real-time data ", "Designed reusable, scalable components", "Managed state with React Hooks,Redux and Context API","Version control using Git and collaborated via GitHub"],
+    "imageSrc": "history/evidyaloka_logo.png"
+  },
+  {
+    "role": "Caspio Developer",
+    "organisation": "Zertain",
+    "startDate": "Jun, 2024",
+    "endDate": "Sept, 2024",
+    "experiences": [
+      "Built custom apps using Caspio's no-code platform with JavaScript and CSS enhancements",
+      "Designed data-driven forms, reports, and dashboards",
+      "Worked in Agile teams (sprints, stand-ups)"
+    ],
+    "imageSrc": "history/zertain_logo.png"
+  }
+]
